@@ -2,7 +2,7 @@
 
 This folder demonstrates how bug bounty hunters can identify and responsibly disclose a reentrancy bug in a DeFi smart contract.
 
-## 🔐 Vulnerable Smart Contract
+##  Vulnerable Smart Contract
 
 ```solidity
 function withdraw(uint256 amount) public {
